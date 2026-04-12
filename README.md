@@ -60,6 +60,7 @@ Shape *-- Line
 Shape *-- Point
 ```
 [Solución_en_python](ejercicio1.py)
+
 Utilice herencia, composición, encapsulación y polimorfismo para definir las clases. Todos los atributos deben tener sus respectivos métodos setter y getter.
 
 # Reto 4:
